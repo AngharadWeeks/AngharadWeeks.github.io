@@ -2,7 +2,6 @@
 
 
 
-
 **Me**
 
 Hello. I'm Angharad *(Anne-Hah-Rudd)*
@@ -14,16 +13,13 @@ I like to describe my research interests with the Venn below:
 
 I'm from Wales, but moved to London to do a BSc in Astrophysics in QMUL (2020), a MSc in Space Science and Engineering at UCL (2021), and Surrey, for my PhD at MSSL (2025...pending)
 
-(https://github.com/user-attachments/assets/f5073764-f8c8-47c4-af7f-aa8b20df8760)
-
-
 **I like**
 
 - Exoplanets
 - Stars
 - Asteroseismology
 - The Milky Way and its various wonders
-- Using all of the above to understand the demographics of extrasolar systems and the way planet properties might rely on them :)
+- Using all of the above to understand the demographics of extrasolar systems in the Milky Way
 
 **Research Highlights***
 
@@ -35,7 +31,7 @@ We homogeneously characterised the host stars of small, rocky exoplanets and dis
 
 2. Homogeneous Ages of Exoplanet Host Stars with Gaia
 3. Galactic context of the Radius Gap
-4. HOt Jupiter INflation through the Lens of Gaia
+4. Hot Jupiter Inflation through the Lens of Gaia
 6. Asteroseismology of Nu Lupi
 
    **Talks**
