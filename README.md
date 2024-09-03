@@ -21,18 +21,18 @@ I'm from Wales, but moved to London to do a BSc in Astrophysics in QMUL (2020), 
 - The Milky Way and its various wonders
 - Using all of the above to understand the demographics of extrasolar systems in the Milky Way
 
-**Research Highlights***
+**Research Highlights**
 
-1. A link between stellar age and rocky planet composition
+1. A Link between Stellar Age and Rocky Planet Composition
    
 <img width="980" alt="Screenshot 2024-09-03 at 23 20 06" src="https://github.com/user-attachments/assets/467acfb8-daee-4c7a-a396-5685d1c5f8e3">
 
 We homogeneously characterised the host stars of small, rocky exoplanets and discovered a correlation between their ages and the planet densities. 
 
-2. Homogeneous Ages of Exoplanet Host Stars with Gaia
-3. Galactic context of the Radius Gap
-4. Hot Jupiter Inflation through the Lens of Gaia
-6. Asteroseismology of Nu Lupi
+3. Homogeneous Ages of Exoplanet Host Stars with Gaia
+4. Galactic Context of the Radius Gap
+5. Hot Jupiter Inflation through the Lens of Gaia
+5. Asteroseismology of Nu Lupi: a naked-eye testbed for radius valley formation 
 
    **Talks**
 
