@@ -1,8 +1,3 @@
-# Angharad Weeks
-I am a PhD Student and this is my wesbite
-
-
-
 I like 
 
 - Exoplanets
