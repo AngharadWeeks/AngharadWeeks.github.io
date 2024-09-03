@@ -9,4 +9,4 @@ I like
 - Stars
 - Asteroseismology
 - The Milky Way and its various wonders
-- Using all of the above to understand the demographics of extrasolar systems and the way planet properties might rely on them
+- Using all of the above to understand the demographics of extrasolar systems and the way planet properties might rely on them :)
