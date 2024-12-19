@@ -44,19 +44,82 @@ Power spectrum showing oscillations of $\nu^2$ Lupi in the TESS 20-second cadenc
 ![image](https://github.com/user-attachments/assets/52ccbf7b-f4b9-45a0-806f-63c4d92346d8)
 
 Re-calculated planet parameters of the $\nu^2$ Lupi system planets in the context of the Asteroseismic radius valley [Van Eylen + 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4786V/abstract). Plot from Weeks et al. 2025 (in prep.)
+
+
 3. Hot Jupiter Inflation through the Lens of Gaia
 
 Since the first discovery of extra-solar planets, astronomers have been puzzled over the larger-than-predicted radii of 'hot Jupiter' planets. After a certain point, hydrostatic equilibirum states that adding more matter to a giant planet in formation, should only increase its density, and not its size (radius). However, radii of these planets commonly exceed such a limit. Much work has been done to try and disentangle the causation of this radius inflation. Our work applies a similar methodlogy to Weeks et al. 2024, in order to homogeneously investigate the influence of stellar properties on hot Jupiter characteristics. We also employ data-driven techniues to model-independently seperate inflated from non-inflated planets. 
 
+![teqrad_all_mp_new](https://github.com/user-attachments/assets/131a12f9-b97b-40bf-85fc-34c4fb581f61)
 
+Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with T$_{eq}$>100-K are expected to be inflated, according to models. We observe a gradient with planet mass in this population, as seen in the literature.  
 
-5. Asteroseismology of Nu Lupi: a naked-eye testbed for radius valley formation 
 
    **Talks**
 
+   \section{Research Presentations}
+ \begin{itemize}[leftmargin=0.1in, itemsep=0.001em,label={}]
+  \small{\item{
+     \textit{Invited Seminar, }{Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024}
+    }}
+ \small{\item{
+     \textit{Contributed talk, }{Extreme Solar Systems V, Christchurch, NZ, Mar 2024}
+    }}
+ \small{\item{
+     \textit{Poster, }{Australian Exoplanet Meeting, Sydney, Sept 2023}
+    }}
+    \small{\item{
+     \textit{Poster, }{UK Exoplanet Meeting, Birmingham, Apr 2024}
+    }}
+    \small{\item{
+     \textit{Highlight Talk, }{UK Exoplanet Meeting, London, Aug 2023}
+    }}
+    \small{\item{
+     \textit{Contributed Talk, }{Plato Stellar Science Conference, Milazzo, Jun 2023}
+    }}
+    \small{\item{
+     \textit{Seminar, }{MSSL Astrophysics Seminar Series, Feb 2023}
+    }}
+    \small{\item{
+     \textit{Contributed Talk, }{London Exoplanet Day, London, Jan 2023}
+    }}
+    \small{\item{
+     \textit{Poster, }{Sagan Summer Workshop, Padasena, Jul 2022}
+    }}
+    \small{\item{
+     \textit{Poster, }{MW-Gaia Workshop, Aarhus, 2022}
+    }}
+ \end{itemize}
+ \vspace{-10pt}
+
+ 
+
    **Teaching and Service**
 
-   **Supervisione**
+   \section{Teaching $\&$ Service}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Postgraduate Teaching Assistant}{Jan 2022 -- Jan 2024}
+      {University College London}{}
+      \resumeItemListStart
+        \resumeItem {SPCE0010: Planetary Atmospheres [MSc. course]} - grading problem sheets, creating problem sheets, creating and leading tutorial sessions, developing syllabus for and grading research essays and presentations (2 semesters)
+        \resumeItem {PHAS0036: Stellar Physics [3rd-year BSc. course]} - grading problem sheets, addressing student enquiries (1 semester)
+
+   **Supervision**
+   \section{Supervision}
+     \resumeSubHeadingListStart
+    \resumeSubheading
+      {MSc Thesis co-Supervisor}{Sept 2022 -- Jul 2023}
+      {Laura Corbett, MSc. Space Science and Engineering.}{}
+        \resumeItem {Thesis title: Investigating Hot Jupiter Inflation via Homogeneous Host Star Parameterisation}
+    \resumeSubheading
+      {MSc Thesis co-Supervisor}{Sept 2023 -- Sept 2024}
+      {Ximing Xu, MSc. Astrophysics}{}
+        \resumeItem {Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for supervisor's Parental leave)}
+    \resumeSubheading
+      {UCL MAPS Internship Supervisor}{Jun 2024 -- Aug 2024}
+      {Leyla Iskandarli, MSc. Astrophysics}{}
+        \resumeItem {Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
 
    **The Music of the Stars**
 
