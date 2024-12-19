@@ -37,6 +37,7 @@ Read the paper [HERE](https://ui.adsabs.harvard.edu/abs/2024arXiv241117358W/abst
 
 The paper is in preparation, but you can read more about the $\nu^2$ Lupi system [HERE](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract)
 
+![image](https://github.com/user-attachments/assets/41dc6567-3336-4684-8705-dbfd008fa10d) 
 
 
 3. Hot Jupiter Inflation through the Lens of Gaia
