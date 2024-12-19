@@ -58,18 +58,18 @@ Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with
 
 
    **Talks**
-- \textbf{Contributed Talk}, Know Thy Stars 2, Caltech, California, Feb 2025 (upcoming)
-- Invited Seminar, Aarhus Universitet, Aarhus, Denmark, Dec 2024
-- Invited Seminar, Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024
-- Contributed talk, Extreme Solar Systems V, Christchurch, NZ, Mar 2024
-- Poster, Australian Exoplanet Meeting, Sydney, Sept 2023
-- Poster, UK Exoplanet Meeting, Birmingham, Apr 2024
-- Highlight Talk, UK Exoplanet Meeting, London, Aug 2023
-- Contributed Talk, Plato Stellar Science Conference, Milazzo, Jun 2023
-- Seminar, MSSL Astrophysics Seminar Series, Feb 2023
-- Contributed Talk, London Exoplanet Day, London, Jan 2023
-- Poster, Sagan Summer Workshop, Padasena, Jul 2022
-- Poster, MW-Gaia Workshop, Aarhus, 2022
+- *Contributed Talk*, Know Thy Stars 2, Caltech, California, Feb 2025 (upcoming)
+- *Invited Seminar*, Aarhus Universitet, Aarhus, Denmark, Dec 2024
+- *Invited Seminar*, Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024
+- *Contributed talk*, Extreme Solar Systems V, Christchurch, NZ, Mar 2024
+- *Poster*, Australian Exoplanet Meeting, Sydney, Sept 2023
+- *Poster*, UK Exoplanet Meeting, Birmingham, Apr 2024
+- *Highlight Talk*, UK Exoplanet Meeting, London, Aug 2023
+- *Contributed Talk*, Plato Stellar Science Conference, Milazzo, Jun 2023
+- *Seminar*, MSSL Astrophysics Seminar Series, Feb 2023
+- *Contributed Talk*, London Exoplanet Day, London, Jan 2023
+- *Poster*, Sagan Summer Workshop, Padasena, Jul 2022
+- *Poster*, MW-Gaia Workshop, Aarhus, 2022
 
 
 
