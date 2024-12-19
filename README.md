@@ -88,7 +88,7 @@ Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with
 - MSc Thesis co-Supervisor, Sept 2023 -- Sept 2024
 <br> Ximing Xu, MSc. Astrophysics, Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for <br> supervisor's Parental leave)
 - UCL MAPS Internship Supervisor, Jun 2024 -- Aug 2024 ,
-- Leyla Iskandarli, MSc. Astrophysics, Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
+- Leyla Iskandarli, MSc. Astrophysics, Project title:  Rotation Rates of Tiny Exoplanet Host Stars
 
    **Email me at angharad.weeks.20@ucl.ac.uk, or angharad.weeks@gmail.com**
 
