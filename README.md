@@ -13,13 +13,14 @@ I like to describe my research interests with the Venn below:
 
 I'm from Wales, but moved to London to do a BSc in Astrophysics in QMUL (2020), a MSc in Space Science and Engineering at UCL (2021), and Surrey, for my PhD at MSSL (2025...pending)
 
-**I like**
+**I work on**
 
 - Exoplanets
 - Stars
 - Asteroseismology
 - The Milky Way and its various wonders
-- Using all of the above to understand the demographics of extrasolar systems in the Milky Way
+
+I am primarily interested in using all of the above to understand the demographics of extrasolar systems in the Milky Way.
 
 **Research Highlights**
 
