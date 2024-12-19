@@ -26,17 +26,18 @@ I am primarily interested in using all of the above to understand the demographi
 **1. A Link between Stellar Age and Rocky Planet Composition**
    
 <img width="980" alt="Screenshot 2024-09-03 at 23 20 06" src="https://github.com/user-attachments/assets/467acfb8-daee-4c7a-a396-5685d1c5f8e3">
+Masses and Radii of small, rocky exoplanets from [Weeks et al. 2024](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract). Older stars host less dense rocky planets. 
 
-We homogeneously characterised the host stars of small, rocky exoplanets and discovered a correlation between their ages and the planet densities. 
+<br> We homogeneously characterised the host stars of small, rocky exoplanets and discovered a correlation between their ages and the planet densities. 
 Read the paper [HERE](https://ui.adsabs.harvard.edu/abs/2024arXiv241117358W/abstract)
 
 
 **2. Asteroseismology of Nu Lupi: a naked-eye testbed for radius valley formation**
 
-   We etected solar-like oscillations in the TESS 20-second cadence data for $\nu^2$ Lupi, a naked eye exoplanet host star. We found an ancient asteroseismic age, and analysed its kinematics to affirm its thick disk membership. It hosts two sub-Neptunes, located abpve the radius valley, and one super-Earth, located below the radius valley. This star was not included in out 2024 sample, as it was too bright to be analysed by Gaia's Radial Velocity Spectrometer, but we find that its rock plent fits into the age-compositiob relation we found for this population of planets.
+   We detected solar-like oscillations in the TESS 20-second cadence data for $\nu^2$ Lupi, a naked eye exoplanet host star. We found an ancient asteroseismic age, and analysed its kinematics to affirm its thick disk membership. It hosts two sub-Neptunes, located above the radius valley, and one super-Earth, located below the radius valley. This star was not included in our 2024 sample, as it was too bright to be analysed by Gaia's Radial Velocity Spectrometer, but we find that its rocky planet fits into the age-composition relation we found for this population of planets.
 
 The paper is in preparation, but you can read more about the $\nu^2$ Lupi system [HERE](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract)
- Masses and Radii of small, rocky exoplanets from [Weeks et al. 2024](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract). Older stars host less dense rocky planets. 
+ 
 ![image](https://github.com/user-attachments/assets/41dc6567-3336-4684-8705-dbfd008fa10d) 
 
 Power spectrum showing oscillations of $\nu^2$ Lupi in the TESS 20-second cadence data. Plot from Weeks et al. 2025 (in prep.)
@@ -76,16 +77,16 @@ Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with
 
    **Teaching and Supervision**
 
-- Postgraduate Teaching Assistant, Jan 2022 -- Jan 2024,University College London,
-   SPCE0010: Planetary Atmospheres (MSc. course) - 2 x 1 Semester
-   PHAS0036: Stellar Physics (3rd-year BSc. course) - 1 Semester
+- Postgraduate Teaching Assistant, Jan 2022 -- Jan 2024,University College London,  <br> 
+   <br> SPCE0010: Planetary Atmospheres (MSc. course) - 2 x 1 Semester  <br> 
+   <br> PHAS0036: Stellar Physics (3rd-year BSc. course) - 1 Semester  <br> 
 
 
 - MSc Thesis co-Supervisor, Sept 2022 -- Jul 2023,
-Laura Corbett, MSc. Space Science and Engineering, Thesis title: Investigating Hot Jupiter Inflation via Homogeneous Host Star Parameterisation}
+<br> Laura Corbett, MSc. Space Science and Engineering, Thesis title: Investigating Hot Jupiter Inflation via Homogeneous Host Star Parameterisation}
 
 - MSc Thesis co-Supervisor, Sept 2023 -- Sept 2024
-Ximing Xu, MSc. Astrophysics, Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for supervisor's Parental leave)
+<br> Ximing Xu, MSc. Astrophysics, Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for <br> supervisor's Parental leave)
 - UCL MAPS Internship Supervisor, Jun 2024 -- Aug 2024 ,
 - Leyla Iskandarli, MSc. Astrophysics, Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
 
