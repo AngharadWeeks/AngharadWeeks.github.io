@@ -18,9 +18,8 @@ I'm from Wales, but moved to London to do a BSc in Astrophysics in QMUL (2020), 
 - Exoplanets
 - Stars
 - Asteroseismology
-- The Milky Way and its various wonders
 
-I am primarily interested in using all of the above to understand the demographics of extrasolar systems in the Milky Way.
+I am primarily interested in using all of the above to understand the demographics of extrasolar systems in the Milky Way, through the lens of Galactic Archeology.
 
 **Research Highlights**
 
