@@ -89,7 +89,7 @@ Ximing Xu, MSc. Astrophysics, Thesis title: Transit Fitting for Stellar Paramete
 - UCL MAPS Internship Supervisor, Jun 2024 -- Aug 2024 ,
 - Leyla Iskandarli, MSc. Astrophysics, Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
 
-   **The Music of the Stars**
+   **Email me at angharad.weeks.20@ucl.ac.uk, or angharad.weeks@gmail.com**
 
    
 
