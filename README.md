@@ -63,8 +63,8 @@ Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with
 - *Invited Seminar*, Aarhus Universitet, Aarhus, Denmark, Dec 2024
 - *Invited Seminar*, Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024
 - *Contributed talk*, Extreme Solar Systems V, Christchurch, NZ, Mar 2024
-- *Poster*, Australian Exoplanet Meeting, Sydney, Sept 2023
 - *Poster*, UK Exoplanet Meeting, Birmingham, Apr 2024
+- *Poster*, Australian Exoplanet Meeting, Sydney, Sept 2023
 - *Highlight Talk*, UK Exoplanet Meeting, London, Aug 2023
 - *Contributed Talk*, Plato Stellar Science Conference, Milazzo, Jun 2023
 - *Seminar*, MSSL Astrophysics Seminar Series, Feb 2023
