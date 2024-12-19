@@ -52,74 +52,39 @@ Since the first discovery of extra-solar planets, astronomers have been puzzled 
 
 ![teqrad_all_mp_new](https://github.com/user-attachments/assets/131a12f9-b97b-40bf-85fc-34c4fb581f61)
 
-Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with T$_{eq}$>100-K are expected to be inflated, according to models. We observe a gradient with planet mass in this population, as seen in the literature.  
+Newly calculated hot Jupiter parameters from Weeks 2025b (in Prep). Planets with T$_{eq}>$100-K are expected to be inflated, according to models. We observe a gradient with planet mass in this population, as seen in the literature.  
 
 
    **Talks**
-
-   \section{Research Presentations}
- \begin{itemize}[leftmargin=0.1in, itemsep=0.001em,label={}]
-  \small{\item{
-     \textit{Invited Seminar, }{Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024}
-    }}
- \small{\item{
-     \textit{Contributed talk, }{Extreme Solar Systems V, Christchurch, NZ, Mar 2024}
-    }}
- \small{\item{
-     \textit{Poster, }{Australian Exoplanet Meeting, Sydney, Sept 2023}
-    }}
-    \small{\item{
-     \textit{Poster, }{UK Exoplanet Meeting, Birmingham, Apr 2024}
-    }}
-    \small{\item{
-     \textit{Highlight Talk, }{UK Exoplanet Meeting, London, Aug 2023}
-    }}
-    \small{\item{
-     \textit{Contributed Talk, }{Plato Stellar Science Conference, Milazzo, Jun 2023}
-    }}
-    \small{\item{
-     \textit{Seminar, }{MSSL Astrophysics Seminar Series, Feb 2023}
-    }}
-    \small{\item{
-     \textit{Contributed Talk, }{London Exoplanet Day, London, Jan 2023}
-    }}
-    \small{\item{
-     \textit{Poster, }{Sagan Summer Workshop, Padasena, Jul 2022}
-    }}
-    \small{\item{
-     \textit{Poster, }{MW-Gaia Workshop, Aarhus, 2022}
-    }}
- \end{itemize}
- \vspace{-10pt}
+- Cotributed Talk, Know Thy Stars 2, Caltech, California, Feb 2025 (upcoming)
+- Invited Seminar, Aarhus Universitet, Aarhus, Denmark, Dec 2024
+- Invited Seminar, Sun, Stars and Exoplanets Group, Birmingham, UK, Nov 2024
+- Contributed talk, Extreme Solar Systems V, Christchurch, NZ, Mar 2024
+- Poster, Australian Exoplanet Meeting, Sydney, Sept 2023
+- Poster, UK Exoplanet Meeting, Birmingham, Apr 2024
+- Highlight Talk, UK Exoplanet Meeting, London, Aug 2023
+- Contributed Talk, Plato Stellar Science Conference, Milazzo, Jun 2023
+- Seminar, MSSL Astrophysics Seminar Series, Feb 2023
+- Contributed Talk, London Exoplanet Day, London, Jan 2023
+- Poster, Sagan Summer Workshop, Padasena, Jul 2022
+- Poster, MW-Gaia Workshop, Aarhus, 2022
 
  
 
-   **Teaching and Service**
+   **Teaching and Supervision**
 
-   \section{Teaching $\&$ Service}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Postgraduate Teaching Assistant}{Jan 2022 -- Jan 2024}
-      {University College London}{}
-      \resumeItemListStart
-        \resumeItem {SPCE0010: Planetary Atmospheres [MSc. course]} - grading problem sheets, creating problem sheets, creating and leading tutorial sessions, developing syllabus for and grading research essays and presentations (2 semesters)
-        \resumeItem {PHAS0036: Stellar Physics [3rd-year BSc. course]} - grading problem sheets, addressing student enquiries (1 semester)
+- Postgraduate Teaching Assistant, Jan 2022 -- Jan 2024,University College London,
+   SPCE0010: Planetary Atmospheres (MSc. course) - 2 x 1 Semester
+   PHAS0036: Stellar Physics (3rd-year BSc. course) - 1 Semester
 
-   **Supervision**
-   \section{Supervision}
-     \resumeSubHeadingListStart
-    \resumeSubheading
-      {MSc Thesis co-Supervisor}{Sept 2022 -- Jul 2023}
-      {Laura Corbett, MSc. Space Science and Engineering.}{}
-        \resumeItem {Thesis title: Investigating Hot Jupiter Inflation via Homogeneous Host Star Parameterisation}
-    \resumeSubheading
-      {MSc Thesis co-Supervisor}{Sept 2023 -- Sept 2024}
-      {Ximing Xu, MSc. Astrophysics}{}
-        \resumeItem {Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for supervisor's Parental leave)}
-    \resumeSubheading
-      {UCL MAPS Internship Supervisor}{Jun 2024 -- Aug 2024}
-      {Leyla Iskandarli, MSc. Astrophysics}{}
-        \resumeItem {Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
+
+- MSc Thesis co-Supervisor, Sept 2022 -- Jul 2023,
+Laura Corbett, MSc. Space Science and Engineering, Thesis title: Investigating Hot Jupiter Inflation via Homogeneous Host Star Parameterisation}
+
+- MSc Thesis co-Supervisor, Sept 2023 -- Sept 2024
+Ximing Xu, MSc. Astrophysics, Thesis title: Transit Fitting for Stellar Parameters: Can Exoplanet Transits Improve our Understanding of Host Star Properties? (Primary supervisor for supervisor's Parental leave)
+- UCL MAPS Internship Supervisor, Jun 2024 -- Aug 2024 ,
+- Leyla Iskandarli, MSc. Astrophysics, Project title:  Rotation Rates of Tiny Exoplanet Host Stars}
 
    **The Music of the Stars**
 
