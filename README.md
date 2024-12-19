@@ -36,10 +36,14 @@ Read the paper [HERE](https://ui.adsabs.harvard.edu/abs/2024arXiv241117358W/abst
    We etected solar-like oscillations in the TESS 20-second cadence data for $\nu^2$ Lupi, a naked eye exoplanet host star. We found an ancient asteroseismic age, and analysed its kinematics to affirm its thick disk membership. It hosts two sub-Neptunes, located abpve the radius valley, and one super-Earth, located below the radius valley. This star was not included in out 2024 sample, as it was too bright to be analysed by Gaia's Radial Velocity Spectrometer, but we find that its rock plent fits into the age-compositiob relation we found for this population of planets.
 
 The paper is in preparation, but you can read more about the $\nu^2$ Lupi system [HERE](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract)
-
+ Masses and Radii of small, rocky exoplanets from [Weeks et al. 2024](https://ui.adsabs.harvard.edu/abs/2021EPSC...15..810D/abstract). Older stars host less dense rocky planets. 
 ![image](https://github.com/user-attachments/assets/41dc6567-3336-4684-8705-dbfd008fa10d) 
 
+Power spectrum showing oscillations of $\nu^2$ Lupi in the TESS 20-second cadence data. Plot from Weeks et al. 2025 (in prep.)
 
+![image](https://github.com/user-attachments/assets/52ccbf7b-f4b9-45a0-806f-63c4d92346d8)
+
+Re-calculated planet parameters of the $\nu^2$ Lupi system planets in the context of the Asteroseismic radius valley [Van Eylen + 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4786V/abstract). Plot from Weeks et al. 2025 (in prep.)
 3. Hot Jupiter Inflation through the Lens of Gaia
 
 Since the first discovery of extra-solar planets, astronomers have been puzzled over the larger-than-predicted radii of 'hot Jupiter' planets. After a certain point, hydrostatic equilibirum states that adding more matter to a giant planet in formation, should only increase its density, and not its size (radius). However, radii of these planets commonly exceed such a limit. Much work has been done to try and disentangle the causation of this radius inflation. Our work applies a similar methodlogy to Weeks et al. 2024, in order to homogeneously investigate the influence of stellar properties on hot Jupiter characteristics. We also employ data-driven techniues to model-independently seperate inflated from non-inflated planets. 
