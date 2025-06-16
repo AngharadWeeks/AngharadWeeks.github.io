@@ -59,3 +59,164 @@ a:hover {
   color: #ffffff;
   text-shadow: 0 0 5px #66ccff;
 }
+
+.venn-container {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin: 2em auto;
+}
+
+.circle {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  opacity: 0.8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+  color: rgb(30, 21, 21); /* black text */
+  
+
+  padding: 1em;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.circle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.4);
+}
+
+.circle1 {
+  background-color: #ff6b6b;
+  top: 20px;
+  left: -20px;
+}
+
+.circle2 {
+  background-color: #6bc1ff;
+  top: 20px;
+  right: -20px;
+}
+
+.circle3 {
+  background-color: #6bff95;
+  top: 180px;
+  left: 75px;
+}
+
+.plot-section {
+  margin: 4em auto;
+  max-width: 1000px;
+  padding: 0 2em;
+  color: white;
+}
+
+.plot-section h2 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+  text-align: center;
+  color: #ffffff;
+  border-bottom: 1px solid #ffffff30;
+  padding-bottom: 0.5em;
+}
+
+.scroll-gallery {
+  display: flex;
+  overflow-x: auto;
+  gap: 1.5em;
+  padding-bottom: 1em;
+  scroll-snap-type: x mandatory;
+}
+
+.scroll-gallery::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scroll-gallery::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}
+
+.plot-card {
+  flex: 0 0 280px;
+  background: #152b44;
+  border: 1px solid #ffffff22;
+  border-radius: 8px;
+  padding: 1em;
+  scroll-snap-align: start;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.plot-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.8em;
+}
+
+.plot-card p {
+  font-size: 0.95em;
+  line-height: 1.4;
+  color: #f0f0f0;
+}
+
+.plot-link {
+  display: inline-block;
+  margin-top: 0.6em;
+  color: #aadfff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.plot-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.3);
+}
+
+.single-plot {
+  max-width: 600px;
+  margin: 4em auto;
+  padding: 1em;
+  text-align: center;
+  color: white;
+}
+
+.small-plot-img {
+  max-width: 60%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 1em;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.1);
+}
+
+.single-plot p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #eee;
+}
+
+.site-footer {
+  margin-top: 4em;
+  padding: 1.5em 0;
+  text-align: center;
+  font-size: 0.95em;
+  background-color: rgba(0, 0, 0, 0.3); /* subtle dark strip */
+  color: #ddd;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.site-footer a {
+  color: #aadfff;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
