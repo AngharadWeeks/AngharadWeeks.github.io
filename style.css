@@ -1,0 +1,61 @@
+/* General body styling */
+body {
+  background-color: #001f3f;
+  background-image: radial-gradient(white 1px, transparent 1px),
+                    radial-gradient(white 1px, transparent 1px);
+  background-size: 100px 100px;
+  background-position: 0 0, 50px 50px;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container text styling */
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-top: 2rem;
+}
+
+/* Navbar customization */
+.navbar {
+  background-color: rgba(0, 0, 50, 0.9);
+  border-bottom: 2px solid #ffffff33;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #ffffff !important;
+  transition: all 0.3s ease;
+}
+
+/* Hover effects for navbar links */
+.nav-link:hover {
+  transform: translateY(-2px) scale(1.05);
+  text-shadow: 0 0 8px #00bfff;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  padding: 6px 12px;
+}
+
+/* Responsive image styling */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
+
+/* Links */
+a {
+  color: #66ccff;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 5px #66ccff;
+}
